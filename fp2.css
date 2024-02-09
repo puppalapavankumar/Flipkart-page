@@ -1,0 +1,35 @@
+.text-center{
+    width:50px; 
+    height: 30px;
+    align-items: center;
+  }
+  .bold-text {
+      font-weight: 600;
+  }
+    .single-line-text {
+      white-space: nowrap;
+    }
+    .bank-offer {
+      font-weight: bold;
+      align-items: center; /* Align items vertically */
+    }
+    .Special-Price{
+      font-weight: bold;
+    }
+    .tc-text {
+      color: blue; 
+      font-size: medium;
+    }
+    .no-cost{
+      font-weight: bold;
+    }
+    .icon {
+      margin-right: 5px; 
+    }
+    .btn{
+      width: 1cqb;
+      height: 1px;
+    }
+
+
+   
